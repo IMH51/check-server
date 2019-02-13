@@ -1,0 +1,2 @@
+class OddsController < ApplicationController
+end
