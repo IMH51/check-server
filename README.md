@@ -1,24 +1,11 @@
-# README
+#Check - Poker odds calculator
+------------------------------
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Check is a Rails API and React based app that was build as a Mod 4 Project at Flatiron School London.
+This is the backend Rails API repository, the React fronted is hosted by [NathanB09](https://github.com/NathanB09) and can be found [here.](https://github.com/NathanB09/Check)
 
-Things you may want to cover:
+Users of this app can create a query based on an in-game poker scenario and find out their out odds of winning, losing or splitting the hand at that exact point in the hand. 
+The odds are fetched from an external API, details of which can be seen [here.](https://rapidapi.com/danielamitay/api/poker-odds) Users can also see the last 5 queries they have made, enabling them to see their progress over the course of hand at various points.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Example screenshots:
+--------------------
